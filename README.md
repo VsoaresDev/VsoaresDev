@@ -14,4 +14,4 @@
 
 
 
-!Link do Projeto no On! (https://tiktok-jornada-vsoares.web.app)
+!Link do Projeto no On! https://tiktok-jornada-vsoares.web.app
